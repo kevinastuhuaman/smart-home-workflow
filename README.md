@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Govee_API-00A4EF?style=for-the-badge&logoColor=white" alt="Govee API">
-  <img src="https://img.shields.io/badge/VoiceMonkey-232F3E?style=for-the-badge&logo=amazon-alexa&logoColor=white" alt="VoiceMonkey">
+  <img src="https://img.shields.io/badge/VoiceMonkey-232F3E?style=for-the-badge" alt="VoiceMonkey">
 </p>
 
 Developer workflow feedback through smart home devices. Govee LED lights change color based on system events — green on deploy success, red on failure, blue while processing, purple when AI is thinking. Alexa announces build status, test results, and alerts via VoiceMonkey. Your room becomes your dashboard.
